@@ -20,8 +20,7 @@
 
 title: Eastern Arc Capital
 email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  ESG Investing with Ivan K. Wu
+description: ESG Investing with Ivan K. Wu
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
